@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="100%" alt="ChaoticCooties">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-simple-dark.svg">
+  <img src="assets/banner-simple-light.svg" width="100%" alt="ChaoticCooties">
 </picture>
 
 I'm an offensive security professional and aspiring AI safety researcher in Brisbane, Australia. My areas of interest include adversarial machine learning, offensive agents, and evaluations.
