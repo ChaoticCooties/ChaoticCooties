@@ -1,9 +1,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="100%" alt="Chegne Eu Joe. Offensive security and AI safety research. Hands-on research in AI and security.">
+  <img src="assets/banner-light.svg" width="100%" alt="ChaoticCooties">
 </picture>
 
-I'm an offensive security professional and aspiring AI safety researcher in Brisbane, Australia. I study how systems break: language models under adversarial pressure, AI agents that hunt for vulnerabilities, and the evaluations that measure both.
+I'm an offensive security professional and aspiring AI safety researcher in Brisbane, Australia. My areas of interest include adversarial machine learning, offensive agents, and evaluations.
 
 ## Writing
 
