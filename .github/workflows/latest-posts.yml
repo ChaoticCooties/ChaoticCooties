@@ -18,6 +18,7 @@ jobs:
         with:
           feed_list: "https://cooties.io/rss.xml"
           max_post_count: 5
+          tag_post_pre_newline: true
           template: "- **[$title]($url)** · $date<br>$description$newline"
           date_format: "mmm d, yyyy"
           commit_message: "chore: update latest posts"
