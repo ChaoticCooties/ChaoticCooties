@@ -8,11 +8,11 @@ I'm an offensive security professional and aspiring AI safety researcher in Bris
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
+- **[What an attack success rate leaves out](https://cooties.io/blog/severity-aware-jailbreak-risk/)** · Oct 18, 2026<br>Measuring repeated jailbreak attempts and the severity of what comes back.
 - **[Anatomy of a Jailbreak](https://cooties.io/blog/anatomy/)** · Oct 2, 2026<br>A meta-analysis of jailbreak tactics, why a frame has to fit the request, and the role of context in multi-turn attacks.
 - **[Project Umbra: Retrospective on Supply Chain Tooling Research](https://cooties.io/blog/project-umbra/)** · Apr 21, 2026<br>Building an agentic vulnerability scanner, finding a real backdoor, and why this kind of work should be standard practice.
 - **[Mr Bones, Get Me Off This Wild Ride](https://cooties.io/blog/mr-bones-wild-ride/)** · Mar 25, 2026<br>Agentic AI, labor economics, and the end of the apprenticeship model.
 - **[LLM Pentest Methodology](https://cooties.io/blog/pentesting-llm-applications-part2/)** · Dec 14, 2025<br>Deep dive into prompt injection attacks, defense bypasses, and exploiting LLM applications - from basic injections to advanced multi-stage attacks combining AI-specific and traditional vulnerabilities.
-- **[What Makes Pentesting LLMs Different](https://cooties.io/blog/pentesting-llm-applications/)** · Dec 7, 2025<br>Understanding the unique architectural properties that make LLMs challenging to secure, distinguishing AI safety from security, and mapping the attack surface through reconnaissance techniques.
 
 <!-- BLOG-POST-LIST:END -->
 
