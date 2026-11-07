@@ -26,5 +26,6 @@ Project Umbra, an agentic supply-chain scanner, found the following vulnerabilit
 | --- | --- | --- | --- |
 | CVE-2026-6443 | WordPress plugins from a compromised account | Backdoored update allows unauthenticated remote code execution | Critical (CVSS 9.8) |
 | CVE-2026-102566, CVE-2026-102567 | OpenNMT CTranslate2 | Heap overflows in the model loader, fixed in 4.8.1 | High |
+| CVE-2026-117553 | Umbraco CMS | Back-office account takeover through Host header poisoning, fixed in 17.7.2 and 18.2.2 | High (CVSS 7.5) |
 
 A couple of other high-severity findings are under embargo.
